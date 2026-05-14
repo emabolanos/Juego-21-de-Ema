@@ -1,4 +1,4 @@
-# Blackjack - Juego con JavaScript
+# Blackjack - Juego con JavaScript Actualizado
 
 Este proyecto consiste en un juego básico de **Blackjack** desarrollado con **HTML, CSS y JavaScript**.  
 El objetivo principal del proyecto es practicar la manipulación del DOM, eventos, funciones, arreglos y organización de código utilizando el patrón módulo en JavaScript.
